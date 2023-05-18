@@ -1,0 +1,7 @@
+{
+  "name": "myTabs8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
