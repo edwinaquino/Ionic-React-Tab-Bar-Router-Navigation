@@ -21,7 +21,7 @@ ionic serve
 
 ## Demo
 To demo this app using gh-pages
-[Demo Link](https://edwinaquino.github.io/Ionic-React-Tab-Bar-Router-Navigation)
+[Demo Link](https://ionic-react-tab-bar-router-navitaion.pages.dev)
 
 ## Contributing
 
